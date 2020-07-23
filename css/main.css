@@ -1,0 +1,65 @@
+@font-face {
+  font-family: scrubsFont;
+  src: url(../font/tss-scrubs-logo/tsslogo.ttf) format('truetype');
+}
+body{
+  font-family: scrubsFont;
+  background: url(../img/eagle.jpg) no-repeat center center fixed;
+  background-position: top 40px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header{
+  padding-top: 15px;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  color: #000080;
+
+}
+.header #main-title{
+    transform: rotate(-2.5deg);
+}
+.play-button{
+  font-size: 24px;
+  border: 1px solid #f5f5f5;
+  border-radius: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 10px;
+}
+
+.grid-item {
+  word-wrap: break-word;
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  font-size: 18px;
+  height: 150px;
+  text-align: center;
+  color: #000080;
+
+}
+.checked{
+  background-image: url(../img/sacred-heart-hospital.png);
+  background-repeat:no-repeat;
+  background-size: 30px 30px;
+  overflow: hidden;
+}
+.grid-item-center{
+  background-image: url(../img/center-img.jpeg);
+  background-position: right 48% bottom 85%;
+  background-repeat:no-repeat;
+  border-radius: 1px;
+  color: white;
+  overflow: hidden;
+  font-size: 18px;
+  word-wrap: break-word;
+  text-align: center;
+  padding: 10px;
+}

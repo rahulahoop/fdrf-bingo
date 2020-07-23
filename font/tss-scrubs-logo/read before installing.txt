@@ -1,0 +1,19 @@
+Font Name: TSS Scrubs Logo
+Version: 1.2
+(used for german logo-subtitle "Die Anfänger")
+
+
+install:
+just copy into your systemfolder \fonts directory
+
+Installation:
+einfach in das \Fonts-Verzeichnis des Betriebssystems kopieren
+
+
+####################################################
+the pro7/nbc logos:
+All Copyrights belonging to their respective owners!
+
+
+----------
+http://www.ScrubS-StyleD.dd.vu
